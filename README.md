@@ -78,6 +78,8 @@ its UI primitives were copied in and re-themed, not imported.
 - **Spaced repetition:** 1 → 3 → 7 → 14 → 30 → 60 days. Easy moves up the ladder, Medium repeats the
   gap, Difficult drops a step and comes back tomorrow.
 
+See [ROADMAP.md](ROADMAP.md) for planned improvements.
+
 ### Privacy & safety
 
 No accounts, real names, dates of birth, location, analytics, ads, leaderboards or public profiles.
